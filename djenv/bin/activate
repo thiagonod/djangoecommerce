@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/thiago/Projetos/Django/ecommerce/djenv"
+VIRTUAL_ENV="/home/thiago/Projetos/Django/djangoecommerce/djenv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

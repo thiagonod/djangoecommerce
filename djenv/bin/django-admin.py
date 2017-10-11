@@ -1,4 +1,4 @@
-#!/home/thiago/Projetos/Django/ecommerce/djenv/bin/python3
+#!/home/thiago/Projetos/Django/djangoecommerce/djenv/bin/python3
 from django.core import management
 
 if __name__ == "__main__":
